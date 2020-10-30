@@ -10,3 +10,6 @@ Patatap clone - A web app created with NodeJs, express, HTML+CSS, Paper.JS and H
 The working link for this website hosted on heroku is : https://patatap-clone-sreeram.herokuapp.com/
 
 ---------------------------------------------------------
+pricing-panel CSS
+
+Simple responsive pricing panel using CSS.
