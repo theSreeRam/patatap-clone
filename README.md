@@ -20,5 +20,5 @@ Now hosted at - https://thesreeram.github.io/pricing_panel/
 ------------------------------------------------------------------------------------------
 
 Added responsive Museum of Candy webpage, it has crossfading navigation bar that collapses on mobile devices, and has different mobile layout.
-Hosted at - https://thesreeram.github.io/Museum_of_Candy
+Hosted at - https://thesreeram.github.io/museum_of_candy/
 ------------------------------------------------------------------------------------------
